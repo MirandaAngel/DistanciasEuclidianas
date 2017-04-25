@@ -1,0 +1,2 @@
+# DistanciasEuclidianas
+para calcular
